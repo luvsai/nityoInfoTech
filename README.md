@@ -9,11 +9,11 @@ Part1 : Assignment Programs
 format, where h, m, s denote hours, minutes (less than 60) and seconds (less than 60)
 respectively
 
-  file : Time.cs
+  file : Part1Programs/Time.cs
   
   2. Given a number, check if it is a power of 2.
   
-  file : Power2.cs
+  file : Part1Programs/Power2.cs
 
 Part2 : ASP.net web API
 
